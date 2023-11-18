@@ -1,0 +1,5 @@
+﻿-- un class static n'aas pas de constructeur
+
+-- un interface ne peut pas contenir des methode static que en c#11
+
+-- (a is null) !(a is null) // (a is not null) depuis c# 9
